@@ -1,2 +1,2 @@
-# federated-learning-course-design
-基于树莓派4B的横向联邦学习实验平台，FedAvg算法，TCP自定义通信协议
+## 本人工作
+完整完成树莓派硬件部署、环境配置、Socket客户端‑服务端通信、业务逻辑开发。
